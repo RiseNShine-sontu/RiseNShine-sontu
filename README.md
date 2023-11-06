@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sushant_Karrahe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'am From Bhopal Mp
+- learning AI and ML
+- 👀 I’m interested in AI and web Designing 
+- 🌱 I’m currently learning AI and ML
+- 
 
 <!---
 RiseNShine-sontu/RiseNShine-sontu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
